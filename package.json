@@ -1,6 +1,7 @@
 {
-  "name": "projetoreact",
+  "name": "projetoreact-frontend2",
   "private": true,
+  "homepage": "projetoreact-frontend2",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
