@@ -1,7 +1,7 @@
 {
   "name": "projetoreact-frontend2",
   "private": true,
-  "homepage": "https://reinaldodlc.github.io/projetoreact-frontend2/",
+  "homepage": "projetoreact-frontend2/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
